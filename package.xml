@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>easyloggingpp</name>
+  <version>9.8.4</version>
+  <description>The easyloggingpp package</description>
+
+  <maintainer email="easylogging@muflihun.com">muflihun</maintainer>
+
+  <license>MIT</license>
+
+  <url type="website">http://easylogging.muflihun.com</url>
+	<url type="website">http://github.com/easylogging/</url>
+	<url type="website">http://muflihun.com</url>
+
+  <author email="easylogging@muflihun.com">muflihun</author> -->
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
