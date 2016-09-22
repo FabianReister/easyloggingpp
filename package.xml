@@ -12,7 +12,7 @@
 	<url type="website">http://github.com/easylogging/</url>
 	<url type="website">http://muflihun.com</url>
 
-  <author email="easylogging@muflihun.com">muflihun</author> -->
+  <author email="easylogging@muflihun.com">muflihun</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
